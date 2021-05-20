@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chengzong0713
+- 👋 Hi, I’m J
 - 👀 I’m interested in JavaScript,HTML,CSS
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on JavaScript 
