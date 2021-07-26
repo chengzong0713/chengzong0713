@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jason
-- 👀 I’m interested in JavaScript,HTML,CSS
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript 
+- 👀 I’m interested in Android App
+- 🌱 I’m currently learning Kotlin & Java 
 - 📫 How to reach me .My email adress:a283368875@gmail.com
 
 <!---
